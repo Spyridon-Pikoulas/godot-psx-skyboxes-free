@@ -10,7 +10,8 @@ Godot. Free for commercial use.
 **[PSX Skyboxes](https://heyheythere.itch.io/psx-skyboxes)** has 26: four nights (the Milky Way,
 a moon through cloud, a town's glow), three dusks, three sunsets, two days, three overcasts, three
 storms (one with lightning), four fogs and four spaces (a ringed planet, a galaxy), and a Unity
-package. Same addon: it installs over this one.
+package. Same addon: it installs over this one. The stranger skies, auroras, eclipses, hell, alien,
+smoke, underwater and snow, are in [PSX Skyboxes II](https://heyheythere.itch.io/psx-skyboxes-2).
 
 ### What's inside
 
